@@ -32,6 +32,7 @@ version = "0.15.0-rc.3"
 default-features = false
 features = [
     "bevy_ui",
+    "bevy_window"
 ]
 
 [dependencies.chrono]
